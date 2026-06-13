@@ -123,7 +123,6 @@
   			</build>
   	</profile>
   	
-  	<!--Cucumber-->
   	<profile>
   		<id>CucumberTests</id>
   			<build>
