@@ -1,0 +1,28 @@
+[
+	{
+		"email":"arijit.sinha@gmail.com",
+		"password":"Asdf@1234",
+		"event":"Dilli Diwali Mela",
+		"mobile":"9456456456",
+		"name":"Arijit Sinha"
+	},
+	{
+		"email":"kriti.sanon@gmail.com",
+		"password":"Asdf@1234",
+		"event":"Hollywood Monsoon Night — Los Angeles",
+		"mobile":"8765787567",
+		"name":"Kriti Sanon"
+	},
+	{
+		"wrong_email":"arijit@gmail.com",
+		"wrong_password":"Asdf@1234"
+	},
+	{
+		"email":"arijit.sinha@gmail.com",
+		"password":"Asdf@1234",
+		"event":"Dilli Diwali Mela",
+		"errors1":"Name must be at least 2 chars",
+		"errors2":"Enter a valid email",
+		"errors3":"Enter a valid 10-digit phone"
+	}
+]
